@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-~~~
+```
 # Program to swap two values.
 # Developed by:R.Subhashri 
 # RegisterNumber:23012776
@@ -28,10 +28,11 @@ y=int(input())
 a=n
 n=y
 y=a
-print("Swapped values are: {} {}".format (n,y))~~~
-## Output
-![output][Alt text](image-2.png)
+print("Swapped values are: {} {}".format (n,y))
+```
+## Output:![Alt text](<Screenshot 2023-10-20 091815.png>)
 
+```
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
