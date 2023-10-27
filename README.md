@@ -30,11 +30,12 @@ n=y
 y=a
 print("Swapped values are: {} {}".format (n,y))
 ```
-## Output:![Alt text](<Screenshot 2023-10-20 091815.png>)
+## Output:
+![output](<Screenshot 2023-10-20 091815.png>)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
