@@ -31,7 +31,7 @@ y=a
 print("Swapped values are: {} {}".format (n,y))
 ```
 ## Output:
-![output](<Screenshot 2023-10-20 091815.png>)
+![Alt text](<Screenshot 2023-10-20 091815-1.png>)
 
 
 ## RESULT:
